@@ -7,9 +7,9 @@
     botInviteUrl: 'https://discord.com/oauth2/authorize?client_id=ID_BOT',
 */
 window.CHEESE_SITE = Object.freeze({
-  operatorName: 'Pengelola Cheese Bot',
-  contactEmail: '',
-  supportUrl: '',
-  botInviteUrl: '',
+  operatorName: 'Tim Cheese',
+  contactEmail: 'neocodes26@hotmail.com',
+  supportUrl: 'https://discord.cheesedev.biz.id',
+  botInviteUrl: 'https://invites.gg/cheese',
   updatedAt: '25 Oktober 2026'
 });
